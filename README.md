@@ -1,4 +1,4 @@
 collectivemedia.github.com
 ==========================
 
-CM Blog
+    jekyll --server
